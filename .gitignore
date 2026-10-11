@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.xlsx
+*.xls
+application-local.properties
+.env
+.env.*
